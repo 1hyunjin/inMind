@@ -142,13 +142,13 @@
 
 
 ### 기능 명세서
-  ![image](/uploads/9944cf5cadf857f0f9d515a03e472f56/image.png)
-  ![image](/uploads/8045ec2e0d8047806adc54580de6e4c1/image.png)
-  ![image](/uploads/520de19e9ab5400acf7595bcc2940545/image.png)
-  ![image](/uploads/637ad7b772b710daab0ad2d2dcb27419/image.png)
-  ![image](/uploads/9f6fafd13513ce770a8628d309d64294/image.png)
-  ![image](/uploads/c7df263c75a24cd626eff9291717eb25/image.png)
-  ![image](/uploads/d1b6582cf0cc03e4123a2ca8943a656d/image.png)
+  ![image](./imgs/기능명세서1.png)
+  ![image](./imgs/기능명세서2.png)
+  ![image](./imgs/기능명세서3.png)
+  ![image](./imgs/기능명세서4.png)
+  ![image](./imgs/기능명세서5.png)
+  ![image](./imgs/기능명세서6.png)
+  ![image](./imgs/기능명세서7.png)
   
 
 ### 부모 페이지 필수 기능
@@ -173,12 +173,12 @@
 
 
 ## :sparkles: 시연
-  ![login](/uploads/e5e48345b69d7fb3ff8fc1b619ba8862/login.gif)  
-  ![아이정보_등록](/uploads/9c95745f6d2c3f5f7941c2884b6d5526/아이정보_등록.gif)  
-  ![3](/uploads/53ed74b2eafff58d6ad26dbf207674f9/3.gif)  
-  ![4](/uploads/0efc85dd76c9662eac43420193ec7e43/4.gif)
-  ![5](/uploads/7c032a197510ce292a7591aed3433c4e/5.gif)
-  ![6](/uploads/3dc21005d231b2213616fa8f4914abdf/6.gif)  
+  ![login](./imgs/시연1.gif)  
+  ![아이정보_등록](./imgs/시연2.gif)  
+  ![3](./imgs/시연3.gif)  
+  ![4](./imgs/시연4.gif)
+  ![5](./imgs/시연5.gif)
+  ![6](./imgs/시연6.gif)  
 
 
 
@@ -198,7 +198,7 @@
 
 
 #### 	Architecture 설계도
-  ![image](/uploads/1d931e94c799a657fb6884868bd1a656/image.png)
+  ![image](./imgs/시스템아키텍쳐.png)
 
 
 
@@ -211,12 +211,12 @@
 
 
 ### API 명세서
-  ![image](/uploads/7d4142673253cfbaf21490d9ad4089d8/image.png)
-  ![image](/uploads/51f1d6e2b272a52086d56dfaf9ae46d7/image.png)
-  ![image](/uploads/ad6fb16832080318f86118e0dc661bbb/image.png)
+  ![image](./imgs/API명세서1.png)
+  ![image](./imgs/API명세서2.png)
+  ![image](./imgs/API명세서3.png)
 
 ### ERD
-  ![inMind](/uploads/dc032ffc6907f16cd351d1b3b03852b1/inMind.png)
+  ![inMind](./imgs/ERD.png)
 
 
 ### AI 명세서
@@ -249,7 +249,7 @@
 
 
 
-##### Ground Rules
+**Ground Rules**
 
 
 
@@ -270,18 +270,13 @@
 
   - 집가기 전에 자리 주변 정리 잘하기!
 
+**팀원 소개**
 
-
-**다짐** 
-
-  - 김성원 : 팀원들을 잘 서포트해서 각자 가진 역량의 최대를 발휘할 수있도록 노력하겠습니다.
-
-  - 김종원 : 맡은 역할에 충실히 임해서 팀에 도움이 될 수 있도록 열심히 노력하겠습니다.
-
-  - 강병규 : 맡은 바 최선을 다해 최고의 프로젝트를 만들겠습니다.
-
-  - 박하운 : 항상 팀원들과 소통하며 책임감있게 프로젝트 완성되는 날까지 임하겠습니다.
-
-  - 이용성 : 오늘 할 일을 내일로 미루지 않고 열심히 하겠습니다!
-
-  - 유현진 : 팀원들과 좋은 분위기에서 좋은 프로젝트를 만들 수 있도록 항상 소통하고 열심히 하겠습니다!
+|                      이름                      |      역할       |                      다짐                      |  
+| :--------------------------------------------: | :-------------: | :--------------------------------------------: |
+| <img src="./imgs/김성원.png" alt="김성원" width="60"> <br>김성원 |  **팀장**, 프론트(Web)    |팀원들을 잘 서포트해서 각자 가진 역량의 최대를 발휘할 수있도록 노력하겠습니다.|
+| <img src="./imgs/강병규.png" alt="강병규" width="60"> <br>강병규 |  AI  | 맡은 바 최선을 다해 최고의 프로젝트를 만들겠습니다.|
+| <img src="./imgs/김종원.png" alt="김종원" width="60"> <br>김종원 |  인프라, 백엔드     |맡은 역할에 충실히 임해서 팀에 도움이 될 수 있도록 열심히 노력하겠습니다.|
+| <img src="./imgs/박하운.png" alt="박하운" width="60"> <br>박하운 |  인프라, 백엔드     | 항상 팀원들과 소통하며 책임감있게 프로젝트 완성되는 날까지 임하겠습니다.|
+| <img src="./imgs/이용성.png" alt="이용성" width="60"> <br>이용성 |  프론트(Web)   |오늘 할 일을 내일로 미루지 않고 열심히 하겠습니다!|
+| <img src="./imgs/유현진.png" alt="유현진" width="60"> <br>유현진 |  백엔드, 프론트(Web)       |팀원들과 좋은 분위기에서 좋은 프로젝트를 만들 수 있도록 항상 소통하고 열심히 하겠습니다!|
